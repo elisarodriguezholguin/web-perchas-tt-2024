@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/*"
+  to = "http://anaquishpe-001-site1.etempurl.com/api/:splat"
+  status = 200
+  force = true
